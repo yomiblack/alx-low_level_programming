@@ -12,11 +12,11 @@ void print_most_numbers(void)
 
 	while (i <= '9')
 	{
-		if (i == 2)
+		if (i == '2')
 		{
 			continue;
 		}
-		else if (i == 4)
+		else if (i == '4')
 		{
 			continue;
 		}
