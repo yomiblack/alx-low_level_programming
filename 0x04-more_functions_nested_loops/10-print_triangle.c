@@ -31,5 +31,3 @@ void print_triangle(int size)
 		}
 	}
 }
-Footer
-© 2022 GitHub, Inc.
