@@ -5,3 +5,4 @@
 5. 0x04-more_functions_nested_loops
 6. 0x05-pointers_arrays_strings
 7. 0x06-pointers_arrays_strings
+8. 0x07-pointers_arrays_strings
