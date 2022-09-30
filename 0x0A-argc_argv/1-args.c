@@ -8,7 +8,7 @@
 int main(int argc, char *argv[])
 {
 	int i;
-	(void)*argv;
+	(void)*argv[];
 
 	if (argc == 1)
 	{
