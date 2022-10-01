@@ -8,3 +8,4 @@
 8. 0x07-pointers_arrays_strings
 9. 0x08-recursion
 10. 0x0A. C - argc, argv
+11. 0x09. C - Static libraries
