@@ -24,3 +24,7 @@ If you haven’t coded all of the above functions create empty ones, with the ri
 Don’t forget to push your main.h file in your repository, containing at least all the prototypes of the above functions.
 
 1.  Create a script that creates a dynamic library called liball.so from all the .c files that are in the current directory.
+
+2. I know, you’re missing C when coding in Python. So let’s fix that!
+
+Create a dynamic library that contains C functions that can be called from Python. See example for more detail.
